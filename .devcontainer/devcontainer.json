@@ -1,0 +1,5 @@
+{
+  "name": "OpenCode Dev",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "postCreateCommand": "curl -fsSL https://opencode.ai/install | bash"
+}
